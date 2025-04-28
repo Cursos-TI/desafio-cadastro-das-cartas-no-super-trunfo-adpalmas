@@ -58,7 +58,7 @@ int main(){
     printf("Número de Pontos Turísticos: %d\n", pontosTuristicos1);
     printf("PIB: %.6f\n", pib1);
     printf("Pib per Capita: %.6f reais\n", pibperCapita1);
-    printf("Densidade populacional: %.2f hab/km^2\n", densidadePopulacional1);
+    printf("População: %.2f hab/km^2\n", densidadePopulacional1);
     
 
       // Dados da carta C02
@@ -111,7 +111,7 @@ int main(){
     printf("Número de Pontos Turísticos: %d\n", pontosTuristicos2);
     printf("PIB: %.6f\n", pib2);
     printf("Pib per Capita: %.6f reais\n", pibperCapita2);
-    printf("Densidade populacional: %.2f hab/km^2\n", densidadePopulacional2);
+    printf("População: %.2f hab/km^2\n", densidadePopulacional2);
     
     return 0;
 }
